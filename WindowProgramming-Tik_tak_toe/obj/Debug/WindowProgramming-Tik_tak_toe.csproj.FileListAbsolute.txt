@@ -1,0 +1,13 @@
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_W5\F74039025_W5\bin\Debug\F74039025_W5.exe.config
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_W5\F74039025_W5\obj\Debug\F74039025_W5.exe
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_W5\F74039025_W5\obj\Debug\F74039025_W5.pdb
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_W5\F74039025_W5\bin\Debug\F74039025_W5.exe
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_W5\F74039025_W5\bin\Debug\F74039025_W5.pdb
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_W5\F74039025_W5\obj\Debug\WindowProgramming-Tik_tak_toe.csprojResolveAssemblyReference.cache
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_W5\F74039025_W5\obj\Debug\F74039025_W5.Start.resources
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_W5\F74039025_W5\obj\Debug\F74039025_W5.Main.resources
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_W5\F74039025_W5\obj\Debug\F74039025_W5.Properties.Resources.resources
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_W5\F74039025_W5\obj\Debug\WindowProgramming-Tik_tak_toe.csproj.GenerateResource.Cache
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_W5\WindowProgramming-Tik_tak_toe\bin\Debug\F74039025_W5.exe.config
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_W5\WindowProgramming-Tik_tak_toe\obj\Debug\F74039025_W5.exe
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_W5\WindowProgramming-Tik_tak_toe\obj\Debug\F74039025_W5.pdb
